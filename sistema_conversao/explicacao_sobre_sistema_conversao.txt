@@ -1,0 +1,30 @@
+PROJETO - SISTEMA DE CONVERSÃO DE:
+
+CELSIUS PARA FAHRENHEIT
+KM PARA MILHAS
+DOLAR PARA REAL
+EURO PARA REAL
+
+1 - USUARIO INFORMA O QUE DESEJA CONVERTER
+
+2- SISTEMA FAZ A CONVERSÃO AUTOMÁTICA E VOLTA AO INICIO
+
+3- CASO USUARIO DESEJE SAIR, O SISTEMA É FINALIZADO
+
+********************************************************************
+
+OBJETIVO:
+
+A proposta desse projeto é criar um sistema que permita ao usuário escolher em uma lista de opções a conversão que quer fazer e para isso, utilizaremos o Portugol.
+
+Dessa forma você vai poder colocar em prática os seguintes conceitos:
+
+VARIÁVEIS:
+
+Operadores aritméticos
+Entrada de dados (leia)
+Saída de dados (escreva)
+Estruturas condicionais
+Estruturas de repetição
+
+Neste projeto veremos como utilizar as estruturas de repetição e condicionais para permitir ao usuário escolher entre conversores diferentes dentro do mesmo sistema.
