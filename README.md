@@ -1,7 +1,7 @@
 # 🌍 Atividades do Curso de Portugol
 
 ## 🧑‍💻 Tecnologias Utilizadas:
-  - Portugol
+  - Portugol Studio
 
 ## 💻 Sobre o Curso
   - Este repositório contém os materiais e atividades desenvolvidas durante o curso de Portugol, onde foram abordados os seguintes temas:
@@ -49,9 +49,6 @@
     - Faça commit das suas alterações: git commit -m 'Adicionando nova funcionalidade'
     - Faça push para a branch: git push origin minha-funcionalidade
     - Abra um pull request.
-      
-### ✍🏼 Licença:
-  - Este projeto está licenciado sob a MIT License.
 
 ### 🚀 Contato
   - e-mail: uedson.oliveira@gmail.com
