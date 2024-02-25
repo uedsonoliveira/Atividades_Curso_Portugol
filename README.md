@@ -38,9 +38,9 @@
       - 1 arquivo.por
         - Contendo todos os códigos que foram feitos para as atividades.
       - 1 arquivo.png
-        - contendo o print da tela como o sistema ativo.
+        - Contendo o print da tela como o sistema ativo.
       - 1 arquivo.md
-        - contendo o readme e explicando sobre cada atividade 
+        - Contendo o readme e explicando sobre cada atividade.
 
 ### 📂 Contribuição:
   - Contribuições são sempre bem-vindas! Se você deseja contribuir para este projeto, siga estas etapas:
