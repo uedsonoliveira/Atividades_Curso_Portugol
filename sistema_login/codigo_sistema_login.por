@@ -1,7 +1,7 @@
 programa
 {
 	//SISTEMA DE CADASTRO DE LOGIN E SENHA
-	//USUARIO TERÁ 3 TENTAIVAS PARA VALIDAR OU ENTÃO SERÁ BLOQUEADO	
+	//USUARIO TERÁ 3 TENTATIVAS PARA VALIDAR OU ENTÃO SERÁ BLOQUEADO	
 	funcao inicio()
 	{		
 	//DECLARAÇÃO DAS VARIÁVEIS
@@ -26,8 +26,9 @@ programa
 			}
 			senao
 			{	
-				tentativas--
-								
+				//ou pode-se usar (tentativas--) da forma simplificada
+				tentativas = tentativas - 1
+				
 				se(tentativas == 0)
 				{
 					escreva("\nNúmero de TENTATIVAS foi EXCEDIDO.\n")
@@ -48,7 +49,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 12; 
+ * @POSICAO-CURSOR = 264; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
