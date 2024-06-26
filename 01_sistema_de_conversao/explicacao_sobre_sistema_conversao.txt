@@ -17,7 +17,7 @@ OBJETIVO:
 
 A proposta desse projeto é criar um sistema que permita ao usuário escolher em uma lista de opções a conversão que quer fazer e para isso, utilizaremos o Portugol.
 
-Dessa forma você vai poder colocar em prática os seguintes conceitos:
+Dessa forma irá ser abordado os seguintes conceitos:
 
 VARIÁVEIS:
 
@@ -27,4 +27,4 @@ Saída de dados (escreva)
 Estruturas condicionais
 Estruturas de repetição
 
-Neste projeto veremos como utilizar as estruturas de repetição e condicionais para permitir ao usuário escolher entre conversores diferentes dentro do mesmo sistema.
+Neste projeto veremos como utilizar as estruturas de repetição e estruturas condicionais para permitir ao usuário escolher entre conversores diferentes dentro do mesmo sistema.
